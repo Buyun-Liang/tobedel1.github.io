@@ -84,10 +84,10 @@ author:
   avatar           : "photo.png"
   bio              : "Graduate research assistant in the Computer Science & Engineering department at University of Minnesota, Twin-Cities"
   location         : "Minneapolis, MN"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "liang664@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
