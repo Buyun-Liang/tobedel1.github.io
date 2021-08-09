@@ -15,7 +15,7 @@ Prior to this, I obtained my first M.S. degree in Materials Science at the Unive
 
 Research Interests: numerical optimization in machine/deep learning, machine/deep learning in healthcare and medical settings.
 
-Research Projects
+<!-- Research Projects
 ------
 **PyGRANSO: a Python numerical package using GRadient-based Algorithm for Non-Smooth Optimization (May 2021-Present)**
 [Software](https://github.com/sun-umn) | [Documentation](https://pygranso.readthedocs.io/en/latest/)
@@ -39,7 +39,7 @@ J. I. Siepmann, J. L. Chen, **B. Liang**, K. Mahesh, 2020, [Effect of Non-Conden
 
 Numerical results and visualizations for equilibrium properties of bubbly water and for bubble collapse dynamics obtained from Monte Carlo and molecular dynamics simulations for coarse-grained water and nitrogen models.
 
-<br/><img src='/images/bubbly.png'>
+<br/><img src='/images/bubbly.png'> -->
 
 
 <!-- To be del
