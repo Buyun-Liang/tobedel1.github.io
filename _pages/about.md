@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "About ME"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Buyun,
-======
+**Hi, I'm Buyun,**
 
 currently a M.S. student in [Computer Science & Engineering](https://cse.umn.edu/cs) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/). I am am fortunate to be advised by [Prof. Ju Sun](https://sunju.org/).
 
