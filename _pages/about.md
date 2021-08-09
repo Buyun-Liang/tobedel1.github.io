@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About ME"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,8 +17,12 @@ Prior to this, I obtained my first M.S. degree in Materials Science at the Unive
 Research Interests: numerical optimization in machine/deep learning, machine/deep learning in healthcare and medical settings.
 
 Research Projects
-======
-PyGRANSO: a Python numerical package using GRadient-based Algorithm for Non-Smooth Optimization
+------
+**PyGRANSO: a Python numerical package using GRadient-based Algorithm for Non-Smooth Optimization (May 2021-Present)**
+
+Toward a user-friendly and scalable numerical package for nonsmooth, nonconvex, constrained optimization.
+
+[Software](https://github.com/sun-umn); [Documentation](pygranso.readthedocs.io/en/latest/)
 
 <br/><img src='/images/500x300.png'>
 
