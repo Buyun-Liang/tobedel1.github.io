@@ -39,7 +39,7 @@ J. I. Siepmann, J. L. Chen, **B. Liang**, K. Mahesh, 2020, [Effect of Non-Conden
 
 Numerical results and visualizations for equilibrium properties of bubbly water and for bubble collapse dynamics obtained from Monte Carlo and molecular dynamics simulations for coarse-grained water and nitrogen models.
 
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/bubbly.png'>
 
 
 To be del
