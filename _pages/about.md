@@ -20,11 +20,7 @@ Research Projects
 ======
 PyGRANSO: a Python numerical package using GRadient-based Algorithm for Non-Smooth Optimization
 
----
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
-collection: portfolio
----
+<br/><img src='/images/500x300.png'>
 
 To be del
 ======
