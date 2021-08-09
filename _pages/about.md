@@ -17,11 +17,15 @@ Research Interests: numerical optimization in machine/deep learning, machine/dee
 
 Research Projects
 ------
-**PyGRANSO: a Python numerical package using GRadient-based Algorithm for Non-Smooth Optimization (May 2021-Present)**: [Software](https://github.com/sun-umn) [Documentation](pygranso.readthedocs.io/en/latest/)
+**PyGRANSO: a Python numerical package using GRadient-based Algorithm for Non-Smooth Optimization (May 2021-Present)**: [Software](https://github.com/sun-umn) | [Documentation](pygranso.readthedocs.io/en/latest/)
 
 Toward a user-friendly and scalable numerical package for nonsmooth, nonconvex, constrained optimization.
 
+<br/><img src='/images/500x300.png'>
 
+**Robustness of Deep Learning in MRI Reconstruction** [Source](https://github.com/Buyun-Liang/Robustness-of-Deep-Learning-in-MRI-Reconstruction) | [Report](http://buyun-liang.github.io/files/Final_Report.pdf)
+
+Improved the stability of deep learning model on MRI reconstruction with adversarial training.
 
 <br/><img src='/images/500x300.png'>
 
