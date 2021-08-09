@@ -17,11 +17,11 @@ Research Interests: numerical optimization in machine/deep learning, machine/dee
 
 Research Projects
 ------
-**PyGRANSO: a Python numerical package using GRadient-based Algorithm for Non-Smooth Optimization (May 2021-Present)**
+**PyGRANSO: a Python numerical package using GRadient-based Algorithm for Non-Smooth Optimization (May 2021-Present)**: [Software](https://github.com/sun-umn) [Documentation](pygranso.readthedocs.io/en/latest/)
 
 Toward a user-friendly and scalable numerical package for nonsmooth, nonconvex, constrained optimization.
 
-[Software](https://github.com/sun-umn); [Documentation](pygranso.readthedocs.io/en/latest/)
+
 
 <br/><img src='/images/500x300.png'>
 
