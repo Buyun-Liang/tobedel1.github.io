@@ -19,9 +19,9 @@ Research Projects
 ------
 **PyGRANSO: a Python numerical package using GRadient-based Algorithm for Non-Smooth Optimization (May 2021-Present)**: [Software](https://github.com/sun-umn) | [Documentation](pygranso.readthedocs.io/en/latest/)
 
-Toward a user-friendly and scalable numerical package for nonsmooth, nonconvex, constrained optimization.
-
 <br/><img src='/images/500x300.png'>
+
+Toward a user-friendly and scalable numerical package for nonsmooth, nonconvex, constrained optimization.
 
 **Robustness of Deep Learning in MRI Reconstruction** [Source](https://github.com/Buyun-Liang/Robustness-of-Deep-Learning-in-MRI-Reconstruction) | [Report](http://buyun-liang.github.io/files/Final_Report.pdf)
 
