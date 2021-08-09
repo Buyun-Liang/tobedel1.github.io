@@ -7,8 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-Research Projects
-------
 **PyGRANSO: a Python numerical package using GRadient-based Algorithm for Non-Smooth Optimization (May 2021-Present)**
 [Software](https://github.com/sun-umn) | [Documentation](https://pygranso.readthedocs.io/en/latest/)
 
