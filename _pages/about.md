@@ -16,6 +16,16 @@ Prior to this, I obtained my first M.S. degree in Materials Science at the Unive
 
 Research Interests: numerical optimization in machine/deep learning, machine/deep learning in healthcare and medical settings.
 
+Research Projects
+======
+PyGRANSO: a Python numerical package using GRadient-based Algorithm for Non-Smooth Optimization
+
+---
+title: "Portfolio item number 2"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
 To be del
 ======
 
