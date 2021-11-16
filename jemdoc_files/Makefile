@@ -35,3 +35,4 @@ realupdate : $(PHDOCS)
 .PHONY : clean
 clean :
 	-rm -f html/*.html
+	-rm -f ../docs/*.html
